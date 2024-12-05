@@ -1,4 +1,4 @@
-**Temperature Converter**
+# Temperature Converter
 
 
 A simple command-line temperature converter written in Rust.
